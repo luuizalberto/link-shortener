@@ -1,7 +1,7 @@
 # Sobre o Projeto
-Encurtador de link utilizando React, uma biblioteca Javascript super poderosa para frontend.
+Encurtador de links utilizando React, uma biblioteca Javascript super poderosa para frontend.
 
-A princípio, configurei o roteamento de navegação de pagina. Porque até então o nosso src e App.js, que é o componente principal, só faz renderizar uma div, mas agora vou ter paginas, por exemplo, home, meus links ou mais. Então agora o nosso App.js não vai ficar responsável por renderizar já direto a div, a gente vai renderizar o nosso roteamento e ele vai ficar responsável por ver onde o usuario está. Para isso utilizo a biblioteca REACT ROUTER DOM.
+A princípio, configurei o roteamento de navegação de páginas. Porque até então o nosso src e App.js, que é o componente principal, só faz renderizar uma div, mas agora vou ter paginas, por exemplo, home, meus links ou mais. Então agora o nosso App.js não vai ficar responsável por renderizar já direto a div, a gente vai renderizar o nosso roteamento e ele vai ficar responsável por ver onde o usuario está. Para isso utilizo a biblioteca REACT ROUTER DOM.
 
 Utilizo uma biblioteca bem bacana também chamada REACT ICONS, ela possui varias outras bibliotecas em si, e elas são muito leves, pois são SVG.
 
