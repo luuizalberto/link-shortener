@@ -18,3 +18,7 @@ Depois utilizo o LOCALSTORAGE para persistir os dados e poder salvar os links em
 
 # Layout Web
 ![image](https://github.com/luuizalberto/assets/blob/main/images/betaoLink.png)
+
+# Layout completo do Projeto
+![image](https://github.com/luuizalberto/assets/blob/main/images/betaolink-projeto.png)
+
